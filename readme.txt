@@ -16,3 +16,5 @@ Contém links para o topo da página, conhecer a empresa, os veículos e contato
 
 -Formalário para os usuários entrarem em contato com a empresa e tirarem suas dúvidas.
 
+Significado do nome:
+24/7 é uma abreviação usada na língua inglesa que significa "24 horas por dia, 7 dias por semana", se referindo a um negócio ou serviço disponível o tempo todo, sem interrupção.
